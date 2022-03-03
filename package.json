@@ -1,0 +1,15 @@
+{
+    "name": "com.muveso.detection-sensor",
+    "version": "1.0.0",
+    "displayName": "Detection Sensor",
+    "description": "Object detection and optimized raycast system for Unity3D.",
+    "unity": "2019.2",
+    "dependencies": {
+    },
+    "keywords": ["tools","extensions","AOT", "Unity","addon", "raycast"],
+    "author": {
+        "name": "Sefa Enes TAS",
+        "email": "sefa@muveso.com",
+        "url": "https://muveso.com"
+    }
+}
